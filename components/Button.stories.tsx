@@ -10,4 +10,4 @@ export default {
 };
 
 export const Basic = args => <Button {...args} />;
-export const Added = () => <Button title="test" />;
+export const Added = () => <Button title="tests" />;

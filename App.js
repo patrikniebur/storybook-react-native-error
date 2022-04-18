@@ -1,2 +1,9 @@
+import React from 'react';
+
 import StorybookUIRoot from './.storybook/Storybook';
-export {StorybookUIRoot as default};
+
+function App() {
+  return <StorybookUIRoot />;
+}
+
+export default App;
